@@ -2,7 +2,7 @@
 
 body {
     font-size: 20px;
-    margin: 0;
+    margin: 0px;
     padding: 0;
     box-sizing: border-box;
 }
@@ -10,10 +10,13 @@ body {
 .logo {
     background-image: url('../img/pattern.png');
     background-color: rgb(75, 75, 219);
+    height: 150px;
 }
 
 #the-booleaner{
     width: 15%;
+    padding-top: 70px;
+    padding-left: 15px;
 }
 
 h1 {
