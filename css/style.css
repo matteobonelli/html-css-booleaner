@@ -20,7 +20,7 @@ h1 {
     font-size: 70px;
 }
 
-.section-writer {
+.section-gray {
     color: gray;
 }
 
@@ -54,4 +54,24 @@ p {
 
 .tr-cyan {
     background-color: cyan;
+}
+
+#advertisement1 {
+    color: white;
+    font-size: 30px;
+    background-image: url('../img/monitor.jpg');
+    background-size: 100% 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+
+#advertisement2 {
+    color: white;
+    font-size: 30px;
+    background-image: url('../img/graph.jpg');
+    background-size: 100% 100%;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
 }
